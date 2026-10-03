@@ -38,8 +38,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Tools & Technologies**
 
