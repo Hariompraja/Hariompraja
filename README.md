@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hariom Prajapati
 
-<h3 align="center">Aspiring Software Engineer | Data Science Enthusiast | Machine Learning Developer</h3>
+<h3 align="center">Aspiring | Data Science Enthusiast | Machine Learning Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+about+Building+Real+World+Projects;Exploring+AI+%26+Machine+Learning;Problem+Solving+%7C+DSA+%7C+Software+Development;Always+Learning+Something+New" alt="Typing SVG" />
@@ -14,14 +14,14 @@
 
 ### 🚀 About Me
 
-* 🎓 Final-year Computer Science (Data Science) student.
-* 💻 Passionate about **Software Development, Data Science, and Artificial Intelligence**.
+* 🎓 Third-year Computer Science (Data Science) student.
+* 💻 Passionate about **Data Science, and Artificial Intelligence**.
 * 🌱 Currently strengthening my skills in **Java, Python, DSA, and Machine Learning**.
 * 🔭 Working on **TRACE – The AI Process Investigator**, an AI-powered process intelligence project.
 * 🤖 Interested in Machine Learning, Explainable AI, and intelligent applications.
 * 🧠 Practicing Data Structures and Algorithms to improve problem-solving skills.
 * 👯 Open to collaborating on interesting open-source and AI/ML projects.
-* 🎯 Goal: To become a skilled Software Engineer and build impactful real-world solutions.
+* 🎯 Goal: Aspiring Data Scientist.
 
 ---
 
