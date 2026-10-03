@@ -89,7 +89,6 @@
 
 ---
 
-### 🏆 LeetCode & Problem Solving
 
 ### 🏆 LeetCode Statistics
 
