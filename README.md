@@ -91,9 +91,18 @@
 
 ### 🏆 LeetCode & Problem Solving
 
-<a href="https://leetcode.com/u/hariompup1/">
-  <img src="https://leetcard.jacoblin.cool/hariompup1?theme=dark&font=Baloo&ext=heatmap" alt="Hariom's LeetCode Stats"/>
-</a>
+### 🏆 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/hariompup1/">
+    <img src="https://leetcard.jacoblin.cool/hariompup1?theme=dark&font=Baloo&ext=heatmap&border=0&radius=15" width="500" alt="Hariom LeetCode Statistics"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/hariompup1/">Visit My LeetCode Profile ↗</a>
+</p>
+
 ---
 
 ### 🤝 Connect With Me
