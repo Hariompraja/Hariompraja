@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hariom Prajapati
 
-<h3 align="center">Aspiring | Data Science Enthusiast | Machine Learning Developer</h3>
+<h3 align="center">Aspiring | Data Scientist | Machine Learning Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+about+Building+Real+World+Projects;Exploring+AI+%26+Machine+Learning;Problem+Solving+%7C+DSA+%7C+Software+Development;Always+Learning+Something+New" alt="Typing SVG" />
