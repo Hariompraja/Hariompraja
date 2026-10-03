@@ -8,8 +8,6 @@
 
 <div align="center"> <img src="https://media1.giphy.com/media/gXr3j6YAClXFfZABn5/giphy.gif" width="300" alt="Cute Chibi Coding Animation"/> </div>
 
-<h3 align="center">Aspiring Software Engineer | Data Science Enthusiast</h3>
-
 ---
 
 ### 🚀 About Me
