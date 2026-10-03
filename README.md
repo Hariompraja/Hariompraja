@@ -15,7 +15,7 @@
 * 🎓 Third-year Computer Science (Data Science) student.
 * 💻 Passionate about **Data Science, and Artificial Intelligence**.
 * 🌱 Currently strengthening my skills in **Java, Python, DSA, and Machine Learning**.
-* 🔭 Working on **TRACE – The AI Process Investigator**, an AI-powered process intelligence project.
+* 🔭 Working on **TRACE – The  Process Investigator**, an process intelligence project.
 * 🤖 Interested in Machine Learning, Explainable AI, and intelligent applications.
 * 🧠 Practicing Data Structures and Algorithms to improve problem-solving skills.
 * 👯 Open to collaborating on interesting open-source and AI/ML projects.
@@ -53,9 +53,9 @@
 
 ### 🔥 Featured Projects
 
-**1. TRACE – The AI Process Investigator**
+**1. TRACE – The Process Investigator**
 
-* AI-assisted process intelligence platform.
+Aassisted with process intelligence platform.
 * Identifies bottlenecks, rework, process deviations, and SLA risks.
 * Uses Process Mining, Machine Learning, and explainable analysis.
 
