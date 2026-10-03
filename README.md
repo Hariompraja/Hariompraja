@@ -92,7 +92,7 @@
 ### 🏆 LeetCode & Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/hariompup1/?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 ---
